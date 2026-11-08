@@ -1,0 +1,26 @@
+- [x] window opens
+- [x] input text
+- [x] run text as command
+- [s] remove counter bullshit
+- [ ] let it do other opperations
+  - [ ] sytem that enables this
+    - [x] several handlers in order of inprotance let each try and send a reponse 
+    - [x] suggestions form each handler
+  - [x] get output from terminal commands
+  - [x] maths
+    - [ ] add more advanced expression handler
+  - [x] .destop
+  - [ ] steam
+  - [ ] search files 
+  - [ ] grep
+  - [ ] add buttons
+  - [ ] search the web with shabangs
+- [ ] make it appear nicely
+  - [x] focus window
+- [ ] autosuggest
+  - [x] get suggetions
+  - [ ] accept them
+  - [ ] markovchains for searches
+  - [ ] split it into files
+  - [ ] to exit using the laucner thing id have to modify the renter sturete
+:
